@@ -22,20 +22,19 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "🔎", nomFichier: __
       const releaseDate = new Date(data.created_at).toLocaleDateString('en-GB');
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
-      const gitdata = `*𝐇𝐞𝐲 𝐒𝐬𝐮𝐩 𝐏𝐚𝐥 🤗 𝐢𝐭𝐬 𝐬𝐞𝐞𝐦𝐬 𝐲𝐨𝐮 𝐥𝐢𝐤𝐞 𝐄𝐍𝐙𝐎 𝐌𝐃,  *\n  
-      *𝐀𝐥𝐥 𝐘𝐨𝐮 𝐍𝐞𝐞𝐝 𝐓𝐨 𝐊𝐧𝐨𝐰 𝐢𝐬 𝐇𝐞𝐫𝐞.*
+      const gitdata = `*𝐇𝐞𝐲 𝐒𝐬𝐮𝐩 𝐏𝐚𝐥 🤗 ,  *\n  
+      *BOOMER BOT REPO SESSION .*
 ╭─────────༻༻༻────────
-││ *𝐒𝐞𝐬𝐬𝐢𝐨𝐧* https://baraka-scanner.onrender.com/
 ││ *𝐑𝐞𝐩𝐨:* ${data.html_url}
 ││ *𝐒𝐭𝐚𝐫𝐬:* ${repoInfo.stars}
 ││ *𝐅𝐨𝐫𝐤𝐬:* ${repoInfo.forks}
 ││ *𝐑𝐞𝐥𝐞𝐚𝐬𝐞 𝐃𝐚𝐭𝐞:* ${releaseDate}
 ││ *𝐔𝐩𝐝𝐚𝐭𝐞𝐝: ${repoInfo.lastUpdate}
-││ *𝐎𝐰𝐧𝐞𝐫:* 𝐄𝐍𝐙𝐎 
+││ *𝐎𝐰𝐧𝐞𝐫:* THADDY 
 ││ *𝐂𝐡𝐚𝐧𝐧𝐞𝐥:* https://whatsapp.com/channel/0029VajJTJp2f3ELCm8FN50D
 ││ *𝐈𝐍𝐒𝐓𝐀𝐆𝐑𝐀𝐌:* https://Instagram.com/@_BERA_TECH
 ╰─────────༻༻༻────────
-          *𝐄𝐍𝐙𝐎 𝐌𝐃*`;
+          *BOOMER*`;
 
       await zk.sendMessage(dest, { image: { url: img }, caption: gitdata });
     } else {
