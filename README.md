@@ -8,7 +8,7 @@
   </p>
 <div align="center">
 
-| [![THADDY](https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg?lenght=50width=50)](https://github.com/Nyamache77/)|
+| [![THADDY](https://telegra.ph/file/7f5dbbec68a9c6a6b1317.jpg?lenght=50width=50)](https://github.com/Nyamache77/)|
 |----|
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 **CLICK HERE 👇 TO PAIR**
 
-<a href="https://beltahmd-sessions-ce114587ed6a.herokuapp.com/pair"><img src="https://img.shields.io/badge/Pair%20session%20code-green" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
+<a href="https://trex-session-scanners-b8a59bb9726a.herokuapp.com/"><img src="https://img.shields.io/badge/Pair%20session%20code-green" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
 
 
 ## . DEPLOY NOW ON HEROKU 
