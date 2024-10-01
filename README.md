@@ -22,7 +22,7 @@
 
 **CLICK HERE 👇 TO FORK**
 
-<a href="https://github.com/Nyamache77/Boomer-/fork"><img src="https://img.shields.io/badge/Fork%20Beltahmd%20Repo-blue" alt="FORK BOOMER REPO" width="150"></a>
+<a href="https://github.com/Nyamache77/Boomer-/fork"><img src="https://img.shields.io/badge/Fork%20BOOMER%20Repo-blue" alt="FORK BOOMER REPO" width="150"></a>
 
 ## GET YOUR SESSION ID: 
 
