@@ -14,7 +14,7 @@ module.exports = { session: process.env.SESSION_ID || 'zokk',
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "non",
     AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'non',
     BOT : process.env.BOT_NAME || 'BOOMER',
-    URL : process.env.BOT_MENU_LINKS || 'https://telegra.ph/file/0b5cf2584cd4943ed008f.jpg,https://telegra.ph/file/3da80937e305068c14474.jpg,https://telegra.ph/file/1e693dd2eb5ec67c69750.jpg,https://telegra.ph/file/b8b94202ee501c05bfef2.jpg',
+    URL : process.env.BOT_MENU_LINKS || 'https://telegra.ph/file/7f5dbbec68a9c6a6b1317.jpg',
     MODE: process.env.PUBLIC_MODE || "no",
                   
     PM_PERMIT: process.env.PM_PERMIT || 'no',
