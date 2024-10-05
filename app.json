@@ -2,7 +2,7 @@
 "name":"BOOMER",
   "description":"𝑻𝒉𝒆 𝑭𝒂𝒔𝒕𝒆𝒔𝒕 𝑩𝒐𝒕",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/b8b94202ee501c05bfef2.jpg",
+  "logo":"https://telegra.ph/file/7f5dbbec68a9c6a6b1317.jpg",
   "repository":"https://github.com/Nyamache77/Boomer-",
   "succes_url":"/",
   "stack":"container",
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"TREX-MD",
+      "value":"BOOMER",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/5d3631dccfd838f49a9a8.jpg,https://telegra.ph/file/b8b94202ee501c05bfef2.jpg,https://telegra.ph/file/3da80937e305068c14474.jpg,https://telegra.ph/file/0b5cf2584cd4943ed008f.jpg,https://telegra.ph/file/0b5cf2584cd4943ed008f.jpg,https://telegra.ph/file/23df275c8026b7a1f1746.jpg",
+      "value":"https://telegra.ph/file/7f5dbbec68a9c6a6b1317.jpg",
       "required":false
        
      },
@@ -74,7 +74,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "BERA"
+    "value": "THADDY"
   },
     "NUMERO_OWNER":
   {
