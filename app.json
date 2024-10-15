@@ -1,9 +1,9 @@
 {
-  "name":"ENZO MD",
-  "description":"Best whatsapp bot developed by mr anyway + Baraka Bega",
+  "name":"BOOMER",
+  "description":"Best whatsapp bot developed by THADDY",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://i.ibb.co/dKwNM0X/1680856058-816-x-1456.png",
-  "repository":"https://github.com/ENZOTECH254/ENZO_NEW-MD",
+  "logo":"",
+  "repository":"https://github.com/Nyamache77/Boomer-",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"ENZO MD",
+      "value":"BOMMER",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://i.ibb.co/dKwNM0X/1680856058-816-x-1456.png",
+      "value":"",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "ENZO MD"
+    "value": "THADDY"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254111385747,254784115308"
+    "value": ""
   },
     "WARN_COUNT":
   {
