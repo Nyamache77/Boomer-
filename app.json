@@ -2,7 +2,7 @@
   "name":"BOOMER",
   "description":"Best whatsapp bot developed by THADDY",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"",
+  "logo":"https://telegra.ph/file/7f5dbbec68a9c6a6b1317.jpg",
   "repository":"https://github.com/Nyamache77/Boomer-",
   "succes_url":"/",
   "stack":"container",
@@ -42,7 +42,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"",
+      "value":"https://telegra.ph/file/7f5dbbec68a9c6a6b1317.jpg",
       "required":false
        
      },
